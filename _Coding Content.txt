@@ -1,0 +1,17 @@
+Iteration Methods:
+Fixed-Point 
+Newton's Method
+Secant
+
+Interpolation:
+Newton's Divided Difference (Forward and Backward)
+Lagrange Polynomial error n = f(x) - Pn(x). at discrete points, error needs to be 0.
+Spline
+
+Numerical Linear Algebra:
+Gauss Elimination
+LU-Factorization
+
+
+
+
