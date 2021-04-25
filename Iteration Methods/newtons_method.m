@@ -9,8 +9,8 @@ N = 10;                 % Max. number of iterations
 
 % %   DERIVATIVE SOLVER
 % syms x 
-% gx = 1-x^3
-% abs(diff(gx))
+% gx = 1000/x^2 - 10*exp(x)
+% diff(gx)
 
 
 [roots, iterations] = newtonsMethod(f,f_d,x0,eps,N)

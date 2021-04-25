@@ -1,16 +1,26 @@
 Iteration Methods:
 Fixed-Point 
 Newton's Method
-Secant
+Secant optional
 
 Interpolation:
-Newton's Divided Difference (Forward and Backward)
-Lagrange Polynomial error n = f(x) - Pn(x). at discrete points, error needs to be 0.
-Spline
+Newton's Divided Difference (Forward and Backward) 
+Lagrange Polynomial 
+	error n = f(x) - Pn(x). at discrete points, error needs to be 0. Would also work.
+Spline 
+	keep dynamic. cubic spline.
 
 Numerical Linear Algebra:
-Gauss Elimination
-LU-Factorization
+Gauss Elimination skip
+LU-Factorization skip
+
+Gauss keep, skip jacobi.
+least square method skip
+
+eiganvalue QR
+
+Runge-Kutte Felhberg
+
 
 
 
